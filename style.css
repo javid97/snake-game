@@ -27,7 +27,7 @@ body{
      border-width: 1px;
      border-color: #777 #ddd #ddd #777;
 }
-.scoreContainer{
+.scoreBoard{
      margin-top: 10px;
      font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
      font-size: 1.3rem;

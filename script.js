@@ -1,5 +1,5 @@
 const gameContainer = document.getElementById('gameContainer');
-const scoreBoard = document.querySelector('.scoreBoard');
+const scoreBoard = document.getElementById('pointsEarned');
 const GRID_SIZE = 1600;
 const RENDER_INTERVAL = 100;
 const GAME_ROW = 40;
